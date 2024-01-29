@@ -1,0 +1,108 @@
+Mia Adele Ram Till  4  0  0
+Emilia Alessia Adrian  0
+Hannah Adam  2
+Emma Simon  2
+Sofia Milo  0
+Lina Theodor  1
+Ella Asia Joshua  0
+Mila Maksim  0
+Clara Azzurra Constantin  3  4  0
+Lea Artur  0
+Marie Lian  1
+Anna Bianca Ashok Maxim  3  1
+Luisa Camilla Julius  4  3
+Luisa Camilla Julius  4
+Ida Carlotta Manoj Vincent  2
+Leni Fabian  3  0  1
+Frieda Marlon  2  3
+Emily Nico  3
+Lia Chloe Fiete  0
+Lena Toni  1  0
+Mathilda Eleonora Daniel  3
+Charlotte Lennard  4  3
+Leonie Emily Mattis  3
+Amelie Carlo  2
+Johanna Johannes  4  1  0
+Sophie Francesca Vinod Fritz  3
+Maja Kilian  1  4
+Lilly Jannik  0
+Lara Ginerva Ole  0
+Nele Gioia Usha Malik  2
+Lotta Emilio  0  4  0
+Laura Giulia Dinesh Bruno  2  3
+Sarah Matti  0  3
+Nora Irene Gabriel  0  4
+Nora Irene Gabriel  0
+Paula Nils  3
+Juna Luke  2
+Mira Lias  1  0
+Elisa Maria Lasse  3
+Helena Marta Ajay Lenny  4
+Mara Martina Phil  3
+Melina Pepe  1
+Victoria Melissa Malte  3  0
+Victoria Melissa Malte  3
+Elena Levin  3  0
+Alina Ludwig  0  0
+Maria Nick  1  3
+Thea Thilo  2
+Tilda Rebecca Miran  3  4  0
+Luna Sara Mohan Ali  4
+Marlene Sofia Ravi Benedikt  3
+Carla Frederik  3
+Eva Vittoria Radha Michael  3  1
+Noah Abramo Sima Romy  1  0  2
+Ben Pia  3
+Matteo Alessio Paulina  2  3
+Matteo Alessio Paulina  2
+Finn Andrea Elina  4  1  0
+Leon Antonio Munni Hailey  1
+Elias Brando Malia  2
+Paul Merle  1  2
+Henry Isabella  1
+Luis Davide Luise  0  4  2
+Felix Anni  2
+Luca Antonia  3  0
+Emil Edoardo Josephine  0  0  1
+Jonas Elia Arun Zoe  2  1
+Theo Emanuele Rama Fiona  4
+Lukas Enea Shiv Pauline  0  0
+Anton Federico Julia  4
+Liam Olivia  3
+Maximilian Francesco Jitendra Finja  3  1
+Jakob Elli  0  2  0
+Leo Gabriel Lisa  1
+Oskar Giacomo Saroj Martha  0
+Max Amalia  1  3
+Milan Mina  3  4
+Carl Amira  1
+David Giulio Mahendra Carlotta  2
+Moritz Giuseppe Isabell  2
+Julian Jana  0
+Alexander Leonardo Pa Rosalie  3
+Jona Lorenzo Pramod Lotte  0
+Niklas Alma  3
+Samuel Liya  3
+Jonathan Manuel Punam Katharina  0  0
+Lio Ronja  0  4
+Levi Theresa  2
+Mohammed Mattia Kalpana Lucy  0
+Mats Michele Kamla Jasmin  2  0  1
+Raphael Aaliyah  0  0  4
+Aaron Maila  0  4
+Philipp Stella  3
+Tim Elisabeth  0
+Tom Raffaele Jule  2
+Linus Riccardo Umesh Leila  3  0  1
+Erik Valentina  0  0  4
+Mika Samuel Ravindra Chiara  0  1  2
+Hannes Milena  2  4
+Leonard Annika  4  0
+Valentin Magdalena  0  1
+Benjamin Tommaso Naresh Amelia  4
+Johann Valerius Melissa  0
+Jannis Amy  2
+The number of Electrical Engineering students: 26
+The number of Computer Engineering students: 26
+The number of Mechanical Engineering students: 35
+The number of Civil Engineering students: 24
