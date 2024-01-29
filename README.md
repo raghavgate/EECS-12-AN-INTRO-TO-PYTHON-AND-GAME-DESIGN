@@ -6,10 +6,12 @@ This repository showcases the work completed as part of the EECS 12 course, whic
 HW3: Reading and writing from file:
 
 This project introduced the concept of reading an input file in text format, editing the contents and saving the file.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 HW4: Animation in Python:
 
 This Project introduced the concept of animation in Python. Using a custom graphics file and the time library, the animation involves designing your own car/truck and controlling the speed at which it travels across the screen. There are also other functions such as changing the scenery in the background.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 HW5: Simple Python Game:
 
