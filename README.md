@@ -2,6 +2,8 @@
 Welcome to the EECS 12 repository! This repository contains projects and assignments completed during the EECS 12 course, an introductory course to Python programming and game design.
 
 This repository showcases the work completed as part of the EECS 12 course, which covers fundamental concepts in Python programming and introduces game design principles. The projects are designed to reinforce programming skills, problem-solving techniques, and creativity in game development.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 HW3: Reading and writing from file:
 
